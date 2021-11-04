@@ -1,0 +1,7 @@
+{
+  "name": "tpi-lista",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
